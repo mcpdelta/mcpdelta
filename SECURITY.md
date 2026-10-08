@@ -1,6 +1,6 @@
 # Security
 
-Delta MCP runs on your computer, and its source code is not public. This repository only presents the app. If you find a security problem in Delta MCP or on [mcpdelta.com](https://mcpdelta.com), we want to hear about it, privately.
+Delta MCP runs on your computer, and its source code is not public. This repository only presents the app. If you find a security problem in Delta MCP or on [mcpdelta.com](https://www.mcpdelta.com), we want to hear about it, privately.
 
 ## How to report
 
@@ -29,4 +29,4 @@ We read every report and reply as soon as we can. We keep what you send private,
 
 ## What Delta MCP sends
 
-What leaves your computer, and what never does, is listed in full on the [security page](https://mcpdelta.com/security).
+What leaves your computer, and what never does, is listed in full on the [security page](https://www.mcpdelta.com/security).

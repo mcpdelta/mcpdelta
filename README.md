@@ -10,18 +10,18 @@
 <p><strong>The free app that makes your AI’s MCP tools faster, cheaper and undoable.</strong></p>
 
 <p>
-  <a href="https://mcpdelta.com">Website</a> ·
-  <a href="https://mcpdelta.com/how-it-works">How it works</a> ·
-  <a href="https://mcpdelta.com/benchmarks">Benchmarks</a> ·
-  <a href="https://mcpdelta.com/docs">Docs</a> ·
-  <a href="https://mcpdelta.com/download">Download: coming soon</a>
+  <a href="https://www.mcpdelta.com">Website</a> ·
+  <a href="https://www.mcpdelta.com/how-it-works">How it works</a> ·
+  <a href="https://www.mcpdelta.com/benchmarks">Benchmarks</a> ·
+  <a href="https://www.mcpdelta.com/docs">Docs</a> ·
+  <a href="https://www.mcpdelta.com/download">Download: coming soon</a>
 </p>
 
 </div>
 
 Delta MCP is a free app that sits between your AI apps and their MCP servers. Your AI does each task as one program instead of one tool call per step. Delta MCP checks it before the first call, makes the fewest calls, all or nothing, reads the result back, records it and can undo it. It works with the MCP servers you already use.
 
-> **Coming soon.** Delta MCP is almost here, for macOS, Windows and Linux: free, no account. Follow the launch and you’ll know the moment it’s out, with no email address: [RSS](https://mcpdelta.com/feed.xml), or **Watch → Custom → Releases** on this repository.
+> **Coming soon.** Delta MCP is almost here, for macOS, Windows and Linux: free, no account. Follow the launch and you’ll know the moment it’s out, with no email address: [RSS](https://www.mcpdelta.com/feed.xml), or **Watch → Custom → Releases** on this repository.
 
 <p align="center">
   <img src="assets/demo.gif" alt="Delta MCP’s mark is drawn by a small circle rolling inside a larger one. The name and “Coming soon” appear, then the app’s Activity window: each task in one sentence, its changes before and after, and Undo." width="100%">
@@ -70,11 +70,11 @@ Same result, up to 24.1× fewer tokens. With Delta MCP, multi-step tasks use far
 
 Averages of 2 to 3 runs per variant. A single one-step question costs more, because your AI reads Delta MCP’s short description on every call: the gain is on tasks with several steps. A benchmark on the biggest MCP servers will be published when Delta MCP is released.
 
-**[All benchmarks, with the method →](https://mcpdelta.com/benchmarks)**
+**[All benchmarks, with the method →](https://www.mcpdelta.com/benchmarks)**
 
 ## Works with 12 AI apps
 
-Claude Desktop, Claude Code, Cursor, VS Code, Windsurf, Gemini CLI, Cline, Roo Code, LM Studio, Amazon Q, Codex and Zed. Delta MCP switches the first ten over for you; Codex and Zed are set up by hand for now. Your MCP servers stay exactly as they are. See [how each app is switched over](https://mcpdelta.com/docs/supported-apps).
+Claude Desktop, Claude Code, Cursor, VS Code, Windsurf, Gemini CLI, Cline, Roo Code, LM Studio, Amazon Q, Codex and Zed. Delta MCP switches the first ten over for you; Codex and Zed are set up by hand for now. Your MCP servers stay exactly as they are. See [how each app is switched over](https://www.mcpdelta.com/docs/supported-apps).
 
 ## Download: coming soon
 
@@ -82,8 +82,8 @@ The free app for macOS, Windows and Linux is coming soon. There is nothing to in
 
 | Option | Where |
 |:--|:--|
-| **Download page** | [mcpdelta.com/download](https://mcpdelta.com/download) |
-| **Follow with RSS** | [mcpdelta.com/feed.xml](https://mcpdelta.com/feed.xml) |
+| **Download page** | [mcpdelta.com/download](https://www.mcpdelta.com/download) |
+| **Follow with RSS** | [mcpdelta.com/feed.xml](https://www.mcpdelta.com/feed.xml) |
 | **Watch releases here** | **Watch → Custom → Releases**, on this repository |
 
 <!-- At launch: the download command goes here. It is not available yet. -->
@@ -109,7 +109,7 @@ Delta MCP is a free app that sits between your AI apps and their MCP servers. Yo
 
 ### Is Delta MCP really free?
 
-Yes. Every feature is in the free app, with no account and no limit on servers. See [pricing](https://mcpdelta.com/pricing).
+Yes. Every feature is in the free app, with no account and no limit on servers. See [pricing](https://www.mcpdelta.com/pricing).
 
 ### Is Delta MCP open source?
 
@@ -125,7 +125,7 @@ Yes, on tasks with several steps: 3.3 to 24.1 times fewer tokens in our measurem
 
 ### Does Delta MCP send my data anywhere?
 
-No. Delta MCP runs on your computer and talks to your servers directly; your tools, tasks and history never leave it. Besides a check for new versions, which sends nothing about you, the only thing that can be sent is one anonymous number a day, your tokens saved: you choose at first launch, and it’s off in Settings in one click. The complete list is on the [security page](https://mcpdelta.com/security).
+No. Delta MCP runs on your computer and talks to your servers directly; your tools, tasks and history never leave it. Besides a check for new versions, which sends nothing about you, the only thing that can be sent is one anonymous number a day, your tokens saved: you choose at first launch, and it’s off in Settings in one click. The complete list is on the [security page](https://www.mcpdelta.com/security).
 
 ### Do I need to change my MCP servers?
 
@@ -145,34 +145,34 @@ Settings, then Put everything back. Each connector returns to your AI apps exact
 
 ### When is Delta MCP coming out?
 
-Soon. Follow the launch with [RSS](https://mcpdelta.com/feed.xml) or **Watch → Custom → Releases** on this repository, and you’ll know the moment it’s out.
+Soon. Follow the launch with [RSS](https://www.mcpdelta.com/feed.xml) or **Watch → Custom → Releases** on this repository, and you’ll know the moment it’s out.
 
 ## Learn more
 
-- [How Delta MCP works](https://mcpdelta.com/how-it-works): your AI writes the program.
-- [Docs](https://mcpdelta.com/docs), [security and privacy](https://mcpdelta.com/security) and [pricing](https://mcpdelta.com/pricing).
-- [How to reduce MCP token usage, and why MCP burns tokens](https://mcpdelta.com/guides/reduce-mcp-token-usage)
-- [Claude Code usage limit reached? What your MCP servers cost](https://mcpdelta.com/guides/claude-code-usage-limit-mcp)
-- [MCP config file locations: Claude, Cursor, VS Code and more](https://mcpdelta.com/guides/mcp-clients)
-- [MCP vs CLI for AI agents: where the token bill comes from](https://mcpdelta.com/guides/mcp-vs-cli)
+- [How Delta MCP works](https://www.mcpdelta.com/how-it-works): your AI writes the program.
+- [Docs](https://www.mcpdelta.com/docs), [security and privacy](https://www.mcpdelta.com/security) and [pricing](https://www.mcpdelta.com/pricing).
+- [How to reduce MCP token usage, and why MCP burns tokens](https://www.mcpdelta.com/guides/reduce-mcp-token-usage)
+- [Claude Code usage limit reached? What your MCP servers cost](https://www.mcpdelta.com/guides/claude-code-usage-limit-mcp)
+- [MCP config file locations: Claude, Cursor, VS Code and more](https://www.mcpdelta.com/guides/mcp-clients)
+- [MCP vs CLI for AI agents: where the token bill comes from](https://www.mcpdelta.com/guides/mcp-vs-cli)
 
 ## Delta MCP in your language
 
-[English](https://mcpdelta.com) ·
-[中文](https://mcpdelta.com/zh) ·
-[हिन्दी](https://mcpdelta.com/hi) ·
-[Español](https://mcpdelta.com/es) ·
-[العربية](https://mcpdelta.com/ar) ·
-[Français](https://mcpdelta.com/fr) ·
-[বাংলা](https://mcpdelta.com/bn) ·
-[Português](https://mcpdelta.com/pt) ·
-[Bahasa Indonesia](https://mcpdelta.com/id) ·
-[اردو](https://mcpdelta.com/ur) ·
-[Русский](https://mcpdelta.com/ru) ·
-[Deutsch](https://mcpdelta.com/de) ·
-[Italiano](https://mcpdelta.com/it) ·
-[Nederlands](https://mcpdelta.com/nl) ·
-[Ελληνικά](https://mcpdelta.com/el)
+[English](https://www.mcpdelta.com) ·
+[中文](https://www.mcpdelta.com/zh) ·
+[हिन्दी](https://www.mcpdelta.com/hi) ·
+[Español](https://www.mcpdelta.com/es) ·
+[العربية](https://www.mcpdelta.com/ar) ·
+[Français](https://www.mcpdelta.com/fr) ·
+[বাংলা](https://www.mcpdelta.com/bn) ·
+[Português](https://www.mcpdelta.com/pt) ·
+[Bahasa Indonesia](https://www.mcpdelta.com/id) ·
+[اردو](https://www.mcpdelta.com/ur) ·
+[Русский](https://www.mcpdelta.com/ru) ·
+[Deutsch](https://www.mcpdelta.com/de) ·
+[Italiano](https://www.mcpdelta.com/it) ·
+[Nederlands](https://www.mcpdelta.com/nl) ·
+[Ελληνικά](https://www.mcpdelta.com/el)
 
 ## Security
 

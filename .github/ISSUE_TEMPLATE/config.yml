@@ -1,10 +1,10 @@
-# This repository only presents Delta MCP: there is no code to report issues against.
-# Questions and feedback go to the website; security problems go to a private address.
-blank_issues_enabled: false
+# This repository presents Delta MCP: there is no code in it. Issues are open for feedback on the website and the docs;
+# questions are answered on the website; security problems go to a private address.
+blank_issues_enabled: true
 contact_links:
   - name: Questions about Delta MCP
-    url: https://mcpdelta.com/docs/faq
-    about: Short answers to the questions people ask first. More on https://mcpdelta.com.
+    url: https://www.mcpdelta.com/docs/faq
+    about: Short answers to the questions people ask first. More on https://www.mcpdelta.com.
   - name: Report a security problem
-    url: https://mcpdelta.com/security
+    url: https://www.mcpdelta.com/security
     about: Write to contact@mcpdelta.com, privately. Please don't open a public issue.
