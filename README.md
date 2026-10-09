@@ -34,7 +34,7 @@ Your AI becomes a developer, not an executor. Instead of reading, deciding, call
 1. **One program per task, not one call per step.** Your AI writes the task as one short program. Your MCP servers stay exactly as they are, and every original tool stays callable by name.
 2. **Checked, applied all or nothing, read back.** Delta MCP checks the program before the first call, makes the fewest calls, applies them all or nothing, then reads the result back.
 3. **Recorded in Activity, and undoable.** Every task lands in Activity with each change before and after. Undo it in one click. When something can’t be undone, like a message already sent, Delta MCP tells you.
-4. **Runs by itself.** Your AI works it out once. After that, it runs by itself, every time. Choose when: every day, on weekdays, every Monday or every hour. Delta MCP runs it with no AI and no tokens, or hands it to your AI when the task needs judgment. You start with a test that sends nothing, then sign once. Paying always waits for your card. After two failures it pauses and tells you.
+4. **Automate the tasks you repeat.** Set it once. Delta MCP runs it every day, on weekdays, every Monday or every hour, at a very low cost, and your AI steps in only when the task needs thinking. Analyze last night’s Grafana logs and send your team a report. Follow the market every morning. Close finished tickets every Friday. Delta MCP runs it for free, no AI needed. When it needs analysis, your AI takes the run at the time you set, then reports, emails or acts on what it finds. Tell your AI what to automate and it creates it in Delta MCP. You test it, sign once, and it pauses and tells you after two failures.
 
 <p align="center">
   <picture>
@@ -155,17 +155,17 @@ Settings, then Put everything back. Each connector returns to your AI apps exact
 
 Soon. Follow the launch with [RSS](https://www.mcpdelta.com/feed.xml) or **Watch → Custom → Releases** on this repository, and you’ll know the moment it’s out.
 
-### Can Delta MCP run a task by itself, on a schedule?
+### What can I automate with Delta MCP?
 
-Yes. Turn a shortcut into an automation and choose when it runs: every day, on weekdays, every Monday or every hour. You start with a test that sends nothing, then sign once. Every run lands in Activity, and the menu bar shows the next run and the last run.
+Any task you repeat: read last night’s Grafana logs and send your team a report, follow the market and send a daily summary, close finished tickets every Friday. Choose when it runs: every day, on weekdays, every Monday or every hour. Every run lands in Activity, and the menu bar shows the next run and the last run.
 
 ### Does an automation need my AI?
 
-Not always. Delta MCP can run it itself, with no AI and no tokens. When the task needs judgment, you can let your AI run it instead: a short AI session each time, with your AI app open or a command-line AI like Claude Code installed.
+Not always. Delta MCP can run it itself, for free, with no AI and no tokens. When the task needs analysis, it hands the run to your AI at the time you set: a short AI session that writes the report, sends the email or acts on the results, with your AI app open or a command-line AI like Claude Code installed.
 
-### Can an automation spend money or send messages on its own?
+### Can my AI set up an automation for me?
 
-It can send only what you signed, listed on its card. Paying always waits for your card, and Delta MCP tells you it is waiting.
+Yes. Tell your AI what to automate and it creates the automation in Delta MCP. You test it first, then sign once, and it pauses and tells you after two failures. An automation can send only what you signed, listed on its card.
 
 ### Do automations cost extra?
 
