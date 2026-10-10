@@ -31,7 +31,7 @@ Delta MCP is a free app that sits between your AI apps and their MCP servers. Yo
 
 Your AI becomes a developer, not an executor. Instead of reading, deciding, calling one tool, waiting and reading again, it writes the whole task once.
 
-1. **Recorded in Activity, and undoable.** Every task lands in Activity with each change before and after. Undo it in one click. When something can’t be undone, like a message already sent, Delta MCP tells you.
+1. **Ctrl+Z for your AI’s work.** Every task lands in Activity with each change before and after. Undo it right away, and in some cases later, by you or by your AI: your AI writes how to undo each step, and they run in reverse order if a later step fails or you click Undo. Before you click, you see what will be put back and what can’t, like a message already sent. It never says everything is undone without proof.
 2. **One program per task, not one call per step.** Your AI writes the task as one short program. Your MCP servers stay exactly as they are, and every original tool stays callable by name.
 3. **Checked, applied all or nothing, read back.** Delta MCP checks the program before the first call, makes the fewest calls, applies them all or nothing, then reads the result back.
 4. **Automate the tasks you repeat.** Set it once. Delta MCP runs it every day, on weekdays, every Monday or every hour, at a very low cost, and your AI steps in only when the task needs thinking. Analyze last night’s Grafana logs and send your team a report. Follow the market every morning. Close finished tickets every Friday. Delta MCP runs it for free, no AI needed. When it needs analysis, your AI takes the run at the time you set, then reports, emails or acts on what it finds. Tell your AI what to automate and it creates it in Delta MCP. You test it, sign once, and it pauses and tells you after two failures.
@@ -76,7 +76,7 @@ Same result, up to 24.1× fewer tokens. With Delta MCP, multi-step tasks use far
 | A documentation question | Context7 | **1.2× fewer** | 4 → 3 |
 | A one-step question | Playwright, books.toscrape.com | 1.25× more | 4 → 3 |
 
-Averages of 2 to 3 runs per variant. A single one-step question costs more, because your AI reads Delta MCP’s short description on every call: the gain is on tasks with several steps. A benchmark on the biggest MCP servers will be published when Delta MCP is released.
+Averages of 2 to 3 runs per variant. A single one-step question costs more, because your AI reads Delta MCP’s short description on every call: the gain is on tasks with several steps. A benchmark on the biggest MCP servers will be published when Delta MCP is released, with the cases and the method so you can rerun them, and a demo of Undo, including a write whose answer is lost.
 
 **[All benchmarks, with the method →](https://www.mcpdelta.com/benchmarks)**
 
