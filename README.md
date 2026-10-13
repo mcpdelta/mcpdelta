@@ -187,6 +187,12 @@ No. Automations run on your computer and are part of the free app. When Delta MC
 
 - [How Delta MCP works](https://www.mcpdelta.com/how-it-works): your AI writes the task as one program, Delta MCP checks it and lets you undo it.
 - [Docs](https://www.mcpdelta.com/docs), [security and privacy](https://www.mcpdelta.com/security) and [pricing](https://www.mcpdelta.com/pricing).
+- [How to undo what an AI agent did in Notion, GitHub and files](https://www.mcpdelta.com/guides/undo-ai-agent-changes)
+- [AI agent deleted or changed data? What to do first](https://www.mcpdelta.com/guides/ai-agent-costly-change)
+- [How to give an AI access to your tools safely (MCP)](https://www.mcpdelta.com/guides/safe-ai-access-mcp)
+- [MCP tool call timed out? Check the write before retrying](https://www.mcpdelta.com/guides/mcp-write-timeout)
+- [MCP gateway vs proxy vs Delta MCP: which do you need?](https://www.mcpdelta.com/guides/mcp-gateway-vs-proxy)
+- [When to use MCP, and when copy-paste is faster](https://www.mcpdelta.com/guides/when-to-use-mcp)
 - [How to reduce MCP token usage, and why MCP burns tokens](https://www.mcpdelta.com/guides/reduce-mcp-token-usage)
 - [Claude Code usage limit reached? What your MCP servers cost](https://www.mcpdelta.com/guides/claude-code-usage-limit-mcp)
 - [MCP config file locations: Claude, Cursor, VS Code and more](https://www.mcpdelta.com/guides/mcp-clients)
