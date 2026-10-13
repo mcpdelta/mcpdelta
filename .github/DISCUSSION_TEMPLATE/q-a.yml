@@ -1,0 +1,33 @@
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask your question. Short answers to the usual ones are in the [FAQ](https://www.mcpdelta.com/docs/faq).
+        Please leave out secrets, tokens and other people's data. To report a security problem, write to contact@mcpdelta.com instead.
+  - type: dropdown
+    id: app
+    attributes:
+      label: Which AI app do you use?
+      options:
+        - Claude Desktop
+        - Claude Code
+        - Cursor
+        - VS Code
+        - Windsurf
+        - Gemini CLI
+        - Cline
+        - Roo Code
+        - LM Studio
+        - Amazon Q
+        - Codex
+        - Zed
+        - Another app
+        - I don't use one yet
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What are you trying to do, and what would you like to know?
+    validations:
+      required: true

@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/hi/benchmarks">बेंचमार्क</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/hi/guides">गाइड</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">चर्चाएँ</a> ·
   <a href="https://www.mcpdelta.com/hi/download">डाउनलोड: जल्द आ रहा है</a>
 </p>
 
@@ -255,6 +256,8 @@ Delta MCP 12 AI ऐप के साथ काम करता है: Claude De
 ## ⭐ Delta MCP को स्टार दें
 
 Delta MCP मुफ़्त है, और इसे आपका भरोसा कमाने के लिए बनाया गया है। अगर यह वही है जिसकी आपको ज़रूरत है, तो इस रिपॉज़िटरी को स्टार दें: इसे समर्थन देने का यह सबसे आसान तरीका है, इससे दूसरों को इसे ढूँढने में मदद मिलती है, और लॉन्च के दिन आप इसे फिर से आसानी से ढूँढ सकेंगे। धन्यवाद।
+
+**कोई सवाल, कोई विचार, या आपकी भाषा में कोई वाक्य अटपटा लगता है?** [चर्चाओं में शामिल हों](https://github.com/mcpdelta/mcpdelta/discussions)।
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

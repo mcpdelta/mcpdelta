@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/bn/benchmarks">বেঞ্চমার্ক</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/bn/guides">গাইড</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">আলোচনা</a> ·
   <a href="https://www.mcpdelta.com/bn/download">ডাউনলোড: শিগগিরই আসছে</a>
 </p>
 
@@ -255,6 +256,8 @@ Delta MCP কাজ করে 12টি এআই অ্যাপের সঙ্
 ## ⭐ Delta MCP‑কে একটি স্টার দিয়ে সমর্থন করুন
 
 Delta MCP ফ্রি, আর এটি আপনার ভরসা অর্জনের জন্যই তৈরি। যদি এটি আপনার দরকারের মতো শোনায়, তবে এই রিপোজিটরিতে একটি স্টার দিন: এটি সমর্থনের সবচেয়ে সহজ উপায়, এতে অন্যরা এটি খুঁজে পায়, আর প্রকাশের সময় আপনিও একে আবার খুঁজে নিতে পারেন। ধন্যবাদ।
+
+**প্রশ্ন, ধারণা, বা এমন কোনো বাক্য যা আপনার ভাষায় ভুল মনে হয়?** [আলোচনায় যোগ দিন](https://github.com/mcpdelta/mcpdelta/discussions)।
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

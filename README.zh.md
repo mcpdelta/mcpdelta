@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/zh/benchmarks">基准测试</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/zh/guides">指南</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">讨论</a> ·
   <a href="https://www.mcpdelta.com/zh/download">下载：即将发布</a>
 </p>
 
@@ -255,6 +256,8 @@ Delta MCP 支持 12 款 AI 应用：Claude Desktop、Claude Code、Cursor、VS C
 ## ⭐ 用一个星标支持 Delta MCP
 
 Delta MCP 免费，并为赢得你的信任而打造。如果它正合你所需，请为这个仓库加一个星标：这是支持它最简单的方式，能帮助其他人找到它，也能让你在正式发布时再次找到它。谢谢。
+
+**有问题、有想法，或者有句话在你的语言里读着别扭？** 欢迎[加入讨论](https://github.com/mcpdelta/mcpdelta/discussions)。
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

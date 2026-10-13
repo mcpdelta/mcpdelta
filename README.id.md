@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/id/benchmarks">Benchmark</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/id/guides">Panduan</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">Diskusi</a> ·
   <a href="https://www.mcpdelta.com/id/download">Unduh: segera hadir</a>
 </p>
 
@@ -255,6 +256,8 @@ Bisa. Beri tahu AI Anda apa yang harus diotomatiskan, dan AI akan membuatnya di 
 ## ⭐ Dukung Delta MCP dengan bintang
 
 Delta MCP gratis dan dirancang untuk memperoleh kepercayaan Anda. Jika ini sesuai dengan yang Anda butuhkan, beri bintang pada repositori ini: itu cara paling sederhana untuk mendukungnya, membantu orang lain menemukannya, dan memudahkan Anda menemukannya lagi saat peluncuran. Terima kasih.
+
+**Pertanyaan, ide, atau kalimat yang terasa janggal dalam bahasa Anda?** [Bergabunglah di diskusi](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

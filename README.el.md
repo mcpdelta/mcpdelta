@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/el/benchmarks">Benchmarks</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/el/guides">Οδηγοί</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">Συζητήσεις</a> ·
   <a href="https://www.mcpdelta.com/el/download">Λήψη: έρχεται σύντομα</a>
 </p>
 
@@ -255,6 +256,8 @@ Settings και μετά Put everything back (επαναφορά όλων). Κά
 ## ⭐ Στηρίξτε το Delta MCP με ένα αστέρι
 
 Το Delta MCP είναι δωρεάν και φτιαγμένο για να κερδίσει την εμπιστοσύνη σας. Αν ακούγεται σαν αυτό που χρειάζεστε, βάλτε ένα αστέρι σε αυτό το αποθετήριο: είναι ο απλούστερος τρόπος να το στηρίξετε, βοηθά άλλους να το βρουν, και σας επιτρέπει να το ξαναβρείτε τη στιγμή της κυκλοφορίας. Σας ευχαριστούμε.
+
+**Ερωτήσεις, ιδέες ή μια φράση που ακούγεται λάθος στη γλώσσα σας;** [Συμμετάσχετε στις συζητήσεις](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

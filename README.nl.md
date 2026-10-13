@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/nl/benchmarks">Benchmarks</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/nl/guides">Handleidingen</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">Discussies</a> ·
   <a href="https://www.mcpdelta.com/nl/download">Download: binnenkort</a>
 </p>
 
@@ -255,6 +256,8 @@ Ja. Vertel je AI wat je wilt automatiseren, dan maakt die de automatisering aan 
 ## ⭐ Steun Delta MCP met een ster
 
 Delta MCP is gratis en gemaakt om je vertrouwen te verdienen. Als dit is wat je nodig hebt, geef deze repository dan een ster. Dat is de eenvoudigste manier om Delta MCP te steunen, het helpt anderen Delta MCP te vinden, en bij de lancering vind je deze repository zo weer terug. Bedankt.
+
+**Vragen, ideeën of een zin die in jouw taal niet goed klinkt?** [Doe mee met de discussies](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

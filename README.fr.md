@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/fr/benchmarks">Benchmarks</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/fr/guides">Guides</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">Discussions</a> ·
   <a href="https://www.mcpdelta.com/fr/download">Télécharger : bientôt</a>
 </p>
 
@@ -255,6 +256,8 @@ Oui. Dites à votre IA ce qu’il faut automatiser : elle crée l’automatisat
 ## ⭐ Soutenez Delta MCP avec une étoile
 
 Delta MCP est gratuit et conçu pour mériter votre confiance. Si cela répond à votre besoin, mettez une étoile à ce dépôt : c’est la façon la plus simple de le soutenir, cela aide d’autres personnes à le trouver, et cela vous permet de le retrouver à la sortie. Merci.
+
+**Des questions, des idées ou une phrase qui se lit mal dans votre langue ?** [Rejoignez les discussions](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

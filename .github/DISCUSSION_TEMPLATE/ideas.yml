@@ -1,0 +1,32 @@
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Delta MCP is for people who want their AI to act on their tools without crossing their fingers. Tell us what you would want it to check, show or undo.
+        Please leave out secrets, tokens and other people's data.
+  - type: textarea
+    id: want
+    attributes:
+      label: What do you want your AI to do in your tools?
+      description: One real task, in your own words.
+      placeholder: Close the tickets we finished this week, and tell the team.
+    validations:
+      required: true
+  - type: textarea
+    id: worry
+    attributes:
+      label: What worries you about letting it?
+      description: What would make you say no, or ask first?
+  - type: dropdown
+    id: tools
+    attributes:
+      label: Which tools is it about?
+      multiple: true
+      options:
+        - Notion
+        - GitHub
+        - Linear
+        - Vercel
+        - My files
+        - Another tool

@@ -1,0 +1,31 @@
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Delta MCP is on the way: this is the place for feedback, for a sentence that reads wrong in your language, and for anything else about the launch.
+        Please leave out secrets, tokens and other people's data.
+  - type: dropdown
+    id: about
+    attributes:
+      label: What is this about?
+      options:
+        - A sentence that reads wrong in my language
+        - The website or the docs
+        - The launch
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language and page
+      description: If it is about a translation, which language and which page?
+      placeholder: Français, mcpdelta.com/fr
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What reads wrong, and what would be better?
+    validations:
+      required: true

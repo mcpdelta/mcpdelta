@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/it/benchmarks">Benchmark</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/it/guides">Guide</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">Discussioni</a> ·
   <a href="https://www.mcpdelta.com/it/download">Scarica: in arrivo</a>
 </p>
 
@@ -255,6 +256,8 @@ Sì. Dille cosa automatizzare e crea l’automazione in Delta MCP. Prima provi l
 ## ⭐ Sostieni Delta MCP con una stella
 
 Delta MCP è gratis e pensato per meritare la tua fiducia. Se ti sembra quello che ti serve, metti una stella a questo repository: è il modo più semplice per sostenerlo, aiuta altri a trovarlo e ti permette di ritrovarlo al lancio. Grazie.
+
+**Domande, idee o una frase che suona male nella tua lingua?** [Partecipa alle discussioni](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

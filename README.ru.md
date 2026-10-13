@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/ru/benchmarks">Бенчмарки</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/ru/guides">Руководства</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">Обсуждения</a> ·
   <a href="https://www.mcpdelta.com/ru/download">Скачать: скоро выйдет</a>
 </p>
 
@@ -255,6 +256,8 @@ Delta MCP работает с 12 ИИ-приложениями: Claude Desktop,
 ## ⭐ Поддержите Delta MCP звездой
 
 Delta MCP бесплатен и создан, чтобы заслужить ваше доверие. Если это похоже на то, что вам нужно, поставьте звезду этому репозиторию: это самый простой способ его поддержать, она помогает другим найти его и позволяет вам снова найти его к запуску. Спасибо.
+
+**Вопросы, идеи или фраза, которая в вашем языке звучит неправильно?** [Присоединяйтесь к обсуждениям](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

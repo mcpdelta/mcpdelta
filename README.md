@@ -21,6 +21,7 @@
   <a href="https://www.mcpdelta.com/benchmarks">Benchmarks</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/guides">Guides</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">Discussions</a> ·
   <a href="https://www.mcpdelta.com/download">Download: coming soon</a>
 </p>
 
@@ -255,6 +256,8 @@ Yes. Tell your AI what to automate and it creates the automation in Delta MCP. Y
 ## ⭐ Back Delta MCP with a star
 
 Delta MCP is free and built to earn your trust. If it sounds like what you need, star this repository: it is the simplest way to support it, it helps others find it, and it lets you find it again at launch. Thank you.
+
+**Questions, ideas, or a sentence that reads wrong in your language?** [Join the Discussions](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

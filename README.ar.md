@@ -23,6 +23,7 @@
   <a href="https://www.mcpdelta.com/ar/benchmarks">اختبارات الأداء</a> ·
   <a href="https://www.mcpdelta.com/docs">التوثيق</a> ·
   <a href="https://www.mcpdelta.com/ar/guides">الأدلة</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">المناقشات</a> ·
   <a href="https://www.mcpdelta.com/ar/download">تنزيل: قريبًا</a>
 </p>
 
@@ -257,6 +258,8 @@ MCP (بروتوكول سياق النموذج) معيار يتيح لتطبيق�
 ## ⭐ ادعم Delta MCP بنجمة
 
 Delta MCP مجاني، وصُمِّم ليكسب ثقتك. إن كان يبدو مناسبًا لحاجتك، فضع نجمة على هذا المستودع: فهي أبسط طريقة لدعمه، وتساعد غيرك على العثور عليه، وتسهّل العودة إليه عند الإطلاق. شكرًا.
+
+**أسئلة، أو أفكار، أو جملة تبدو خاطئة في لغتك؟** [انضم إلى المناقشات](https://github.com/mcpdelta/mcpdelta/discussions).
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

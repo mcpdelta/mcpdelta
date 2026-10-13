@@ -23,6 +23,7 @@
   <a href="https://www.mcpdelta.com/ur/benchmarks">بینچ مارکس</a> ·
   <a href="https://www.mcpdelta.com/docs">Docs</a> ·
   <a href="https://www.mcpdelta.com/ur/guides">گائیڈز</a> ·
+  <a href="https://github.com/mcpdelta/mcpdelta/discussions">مباحثے</a> ·
   <a href="https://www.mcpdelta.com/ur/download">ڈاؤن لوڈ: جلد آ رہا ہے</a>
 </p>
 
@@ -257,6 +258,8 @@ Settings میں جائیں، پھر Put everything back چنیں۔ ہر کنیک
 ## ⭐ ایک ستارے سے Delta MCP کی حمایت کریں
 
 Delta MCP مفت ہے اور آپ کا اعتماد حاصل کرنے کے لیے بنایا گیا ہے۔ اگر یہ آپ کی ضرورت کے مطابق لگتا ہے، تو اس ریپوزٹری پر ستارہ دیں: یہ اس کی حمایت کا سب سے آسان طریقہ ہے، اس سے دوسروں کو اسے تلاش کرنے میں مدد ملتی ہے، اور لانچ کے وقت آپ اسے دوبارہ آسانی سے تلاش کر سکیں گے۔ شکریہ۔
+
+**سوالات، خیالات، یا کوئی ایسا جملہ جو آپ کی زبان میں غلط لگے؟** [مباحثوں میں شامل ہوں](https://github.com/mcpdelta/mcpdelta/discussions)۔
 
 <p align="center"><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 

@@ -1,0 +1,13 @@
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Show how you keep an eye on what your AI does in your tools: a setting, a habit, a check that saved you.
+        Please leave out secrets, tokens and other people's data.
+  - type: textarea
+    id: story
+    attributes:
+      label: What do you do, and what did it save you from?
+    validations:
+      required: true
