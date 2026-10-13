@@ -7,7 +7,7 @@
   </picture>
 </h1>
 
-<p><strong>The free app that makes your AI’s MCP tools faster, cheaper and undoable.</strong></p>
+<p><strong>The free app that checks your AI’s work in your tools and lets you undo it.</strong></p>
 
 <p>
   <a href="https://www.mcpdelta.com">Website</a> ·
@@ -19,7 +19,7 @@
 
 </div>
 
-Delta MCP is a free app that sits between your AI apps and their MCP servers. Your AI does each task as one program instead of one tool call per step. Delta MCP checks it before the first call, makes the fewest calls, all or nothing, reads the result back, records it and can undo it. It works with the MCP servers you already use.
+Delta MCP is a free app that sits between your AI apps and their MCP servers (Notion, GitHub, your files…). It checks each task before it runs, applies it all or nothing, reads back what it changed and lets you undo it.
 
 > **Coming soon.** Delta MCP is almost here, for macOS, Windows and Linux: free, no account. Follow the launch and you’ll know the moment it’s out, with no email address: [RSS](https://www.mcpdelta.com/feed.xml), or **Watch → Custom → Releases** on this repository.
 
@@ -29,11 +29,11 @@ Delta MCP is a free app that sits between your AI apps and their MCP servers. Yo
 
 ## What it does
 
-Your AI becomes a developer, not an executor. Instead of reading, deciding, calling one tool, waiting and reading again, it writes the whole task once.
+Let your AI act on your tools, without crossing your fingers.
 
-1. **Ctrl+Z for your AI’s work.** Every task lands in Activity with each change before and after. Undo it right away, and in some cases later, by you or by your AI: your AI writes how to undo each step, and they run in reverse order if a later step fails or you click Undo. Before you click, you see what will be put back and what can’t, like a message already sent. It never says everything is undone without proof.
-2. **One program per task, not one call per step.** Your AI writes the task as one short program. Your MCP servers stay exactly as they are, and every original tool stays callable by name.
-3. **Checked, applied all or nothing, read back.** Delta MCP checks the program before the first call, makes the fewest calls, applies them all or nothing, then reads the result back.
+1. **You decide before.** For each tool, choose what your AI may do alone: only read, ask before deleting or sending, or ask every time. When it asks, you see each change before and after.
+2. **You see what happened.** Every change is recorded with its before and after, written by Delta MCP, not by your AI. It checks results in the tool when it can, and if a connection drops it checks before doing anything twice.
+3. **You can go back.** Undo puts back what can be put back, and tells you before you click what can’t, like a message already sent.
 4. **Automate the tasks you repeat.** Set it once. Delta MCP runs it every day, on weekdays, every Monday or every hour, at a very low cost, and your AI steps in only when the task needs thinking. Analyze last night’s Grafana logs and send your team a report. Follow the market every morning. Close finished tickets every Friday. Delta MCP runs it for free, no AI needed. When it needs analysis, your AI takes the run at the time you set, then reports, emails or acts on what it finds. Tell your AI what to automate and it creates it in Delta MCP. You test it, sign once, and it pauses and tells you after two failures.
 
 <p align="center">
@@ -113,7 +113,11 @@ The free app for macOS, Windows and Linux is coming soon. There is nothing to in
 
 ### What is Delta MCP?
 
-Delta MCP is a free app that sits between your AI apps and their MCP servers. Your AI does each task as one program instead of one tool call per step. Delta MCP checks it before the first call, makes the fewest calls, all or nothing, reads the result back, records it and can undo it. It works with the MCP servers you already use.
+Delta MCP is a free app that sits between your AI apps (Claude, Cursor, VS Code…) and the tools they use, like Notion, GitHub or your files. It checks each task before it runs, makes every change or none, keeps a record of every change and lets you undo what can be undone. Technically, your AI writes each task as one program; Delta MCP checks it before the first call, applies it all or nothing, reads the result back and talks to your MCP servers as they are, with far fewer tokens on tasks of several steps.
+
+### What is MCP?
+
+MCP (Model Context Protocol) is the standard that lets AI apps like Claude, Cursor or VS Code use other apps and services, such as Notion or GitHub. Each service offers its tools through an MCP server, also called a connector. Delta MCP sits between your AI and those servers; you don’t need to know more than that to use it.
 
 ### Is Delta MCP really free?
 
@@ -122,6 +126,14 @@ Yes. Every feature is in the free app, with no account and no limit on servers. 
 ### Is Delta MCP open source?
 
 No. Delta MCP is a free app, and its source code is not public. How it works is written out in the docs, how it is measured is on the benchmarks page, and everything it does on your computer is recorded in Activity. This repository only presents the app.
+
+### What happens if a task fails halfway?
+
+Changes to things like a status, a label or a page are put back and checked, so nothing is left half done. A step already made through a tool as it is stays made, and Delta MCP lists it so your AI doesn’t make it twice. If an answer gets lost on the way, Delta MCP checks, when it can, whether the change happened before anything is redone, and never resends a message on its own. Undo puts back what can be put back and says what can’t, like a message already sent.
+
+### My AI app already asks before it acts. What does Delta MCP add?
+
+When you want a yes first, Delta MCP’s card shows what will change, before and after, instead of only naming the tool that will run. Then it makes every change or none, checks the result and keeps an Undo. You choose, for each tool, what needs your yes and what your AI may do alone.
 
 ### Which AI apps does Delta MCP work with?
 
@@ -173,7 +185,7 @@ No. Automations run on your computer and are part of the free app. When Delta MC
 
 ## Learn more
 
-- [How Delta MCP works](https://www.mcpdelta.com/how-it-works): your AI writes the program.
+- [How Delta MCP works](https://www.mcpdelta.com/how-it-works): your AI writes the task as one program, Delta MCP checks it and lets you undo it.
 - [Docs](https://www.mcpdelta.com/docs), [security and privacy](https://www.mcpdelta.com/security) and [pricing](https://www.mcpdelta.com/pricing).
 - [How to reduce MCP token usage, and why MCP burns tokens](https://www.mcpdelta.com/guides/reduce-mcp-token-usage)
 - [Claude Code usage limit reached? What your MCP servers cost](https://www.mcpdelta.com/guides/claude-code-usage-limit-mcp)
