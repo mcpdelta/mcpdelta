@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP: periksa dan urungkan perubahan AI di tool Anda</h1>
+<h1 align="center">Biarkan AI Anda bekerja di tool Anda.<br>Tanpa main untung-untungan.</h1>
 
-<p><strong>Delta MCP adalah aplikasi gratis di antara AI Anda dan tool Anda (Notion, GitHub, file Anda…). Ia memeriksa tiap tugas, menerapkan semua perubahan atau tidak sama sekali, dan bisa Anda urungkan.</strong></p>
+<p><strong>Delta MCP adalah aplikasi gratis di antara AI Anda dan tool Anda: server MCP apa pun, semua tool-nya. Ia memeriksa tiap tugas, menerapkan semua perubahan atau tidak sama sekali, dan bisa Anda urungkan.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Jawaban lugas tentang MCP: mengurungkan perubahan AI, akses yang aman, timeout, 
 <details>
 <summary><strong>Apa itu Delta MCP?</strong></summary>
 
-Delta MCP adalah aplikasi gratis yang berada di antara aplikasi AI Anda (Claude, Cursor, VS Code…) dan tool yang mereka pakai, seperti Notion, GitHub, atau file Anda. Ia memeriksa setiap tugas sebelum dijalankan, menerapkan semua perubahan atau tidak sama sekali, mencatat setiap perubahan, dan memungkinkan Anda mengurungkan apa yang bisa diurungkan. Secara teknis, AI Anda menulis setiap tugas sebagai satu program; Delta MCP memeriksanya sebelum panggilan pertama, menerapkannya semua atau tidak sama sekali, membaca ulang hasilnya, dan berbicara dengan server MCP Anda apa adanya, dengan jauh lebih sedikit token pada tugas beberapa langkah.
+Delta MCP adalah aplikasi gratis yang berada di antara aplikasi AI Anda (Claude, Cursor, VS Code…) dan tool yang mereka pakai: server MCP apa pun, semua tool-nya. Ia memeriksa setiap tugas sebelum dijalankan, menerapkan semua perubahan atau tidak sama sekali, mencatat setiap perubahan, dan memungkinkan Anda mengurungkan apa yang bisa diurungkan. Secara teknis, AI Anda menulis setiap tugas sebagai satu program; Delta MCP memeriksanya sebelum panggilan pertama, menerapkannya semua atau tidak sama sekali, membaca ulang hasilnya, dan berbicara dengan server MCP Anda apa adanya, dengan jauh lebih sedikit token pada tugas beberapa langkah.
 
 </details>
 

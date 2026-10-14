@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP : vérifiez et annulez les changements de votre IA</h1>
+<h1 align="center">Laissez votre IA agir sur vos outils.<br>Sans croiser les doigts.</h1>
 
-<p><strong>Delta MCP est une app gratuite entre votre IA et vos outils (Notion, GitHub, vos fichiers…). Elle vérifie chaque tâche, fait tous les changements ou aucun, et vous laisse l’annuler.</strong></p>
+<p><strong>Delta MCP est une app gratuite entre votre IA et vos outils : n’importe quel serveur MCP, tous ses outils. Elle vérifie chaque tâche, fait tous les changements ou aucun, et vous laisse l’annuler.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Réponses directes sur MCP : annuler les changements d’une IA, accès sûr, t
 <details>
 <summary><strong>Qu’est-ce que Delta MCP ?</strong></summary>
 
-Delta MCP est une app gratuite qui se place entre vos applications d’IA (Claude, Cursor, VS Code…) et les outils qu’elles utilisent, comme Notion, GitHub ou vos fichiers. Elle vérifie chaque tâche avant de la lancer, fait tous les changements ou aucun, garde une trace de chaque changement et vous laisse annuler ce qui peut l’être. Techniquement, votre IA écrit chaque tâche sous la forme d’un seul programme ; Delta MCP le vérifie avant le premier appel, l’applique tout ou rien, relit le résultat et parle à vos serveurs MCP tels qu’ils sont, avec bien moins de tokens sur les tâches en plusieurs étapes.
+Delta MCP est une app gratuite qui se place entre vos applications d’IA (Claude, Cursor, VS Code…) et les outils qu’elles utilisent : n’importe quel serveur MCP, tous ses outils. Elle vérifie chaque tâche avant de la lancer, fait tous les changements ou aucun, garde une trace de chaque changement et vous laisse annuler ce qui peut l’être. Techniquement, votre IA écrit chaque tâche sous la forme d’un seul programme ; Delta MCP le vérifie avant le premier appel, l’applique tout ou rien, relit le résultat et parle à vos serveurs MCP tels qu’ils sont, avec bien moins de tokens sur les tâches en plusieurs étapes.
 
 </details>
 

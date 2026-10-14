@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP: check and undo your AI’s changes to your tools</h1>
+<h1 align="center">Let your AI act on your tools.<br>Without crossing your fingers.</h1>
 
-<p><strong>Delta MCP is a free app between your AI and your tools (Notion, GitHub, your files…). It checks each task, makes every change or none, and lets you undo it.</strong></p>
+<p><strong>Delta MCP is a free app between your AI and your tools: any MCP server, every tool. It checks each task, makes every change or none, and lets you undo it.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Straight answers about MCP: undoing an AI’s changes, safe access, timeouts, co
 <details>
 <summary><strong>What is Delta MCP?</strong></summary>
 
-Delta MCP is a free app that sits between your AI apps (Claude, Cursor, VS Code…) and the tools they use, like Notion, GitHub or your files. It checks each task before it runs, makes every change or none, keeps a record of every change and lets you undo what can be undone. Technically, your AI writes each task as one program; Delta MCP checks it before the first call, applies it all or nothing, reads the result back and talks to your MCP servers as they are, with far fewer tokens on tasks of several steps.
+Delta MCP is a free app that sits between your AI apps (Claude, Cursor, VS Code…) and the tools they use: any MCP server, every tool. It checks each task before it runs, makes every change or none, keeps a record of every change and lets you undo what can be undone. Technically, your AI writes each task as one program; Delta MCP checks it before the first call, applies it all or nothing, reads the result back and talks to your MCP servers as they are, with far fewer tokens on tasks of several steps.
 
 </details>
 

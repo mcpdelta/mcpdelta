@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP: Änderungen Ihrer KI prüfen und rückgängig machen</h1>
+<h1 align="center">Ihre KI darf in Ihren Tools handeln.<br>Ohne Daumen zu drücken.</h1>
 
-<p><strong>Delta MCP ist eine kostenlose App zwischen Ihrer KI und Ihren Tools (Notion, GitHub, Ihre Dateien …). Es prüft jede Aufgabe, macht alle Änderungen oder keine und lässt Sie sie rückgängig machen.</strong></p>
+<p><strong>Delta MCP ist eine kostenlose App zwischen Ihrer KI und Ihren Tools: jeder MCP-Server, jedes Tool. Es prüft jede Aufgabe, macht alle Änderungen oder keine und lässt Sie sie rückgängig machen.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Klare Antworten zu MCP: Änderungen einer KI rückgängig machen, sicherer Zugri
 <details>
 <summary><strong>Was ist Delta MCP?</strong></summary>
 
-Delta MCP ist eine kostenlose App, die zwischen Ihren KI-Apps (Claude, Cursor, VS Code …) und den Tools sitzt, die sie nutzen, etwa Notion, GitHub oder Ihre Dateien. Delta MCP prüft jede Aufgabe, bevor sie läuft, macht alle Änderungen oder keine, zeichnet jede Änderung auf und lässt Sie zurücknehmen, was sich zurücknehmen lässt. Technisch schreibt Ihre KI jede Aufgabe als ein Programm; Delta MCP prüft es vor dem ersten Aufruf, wendet es ganz oder gar nicht an, liest das Ergebnis zurück und spricht mit Ihren MCP-Servern so, wie sie sind, mit deutlich weniger Tokens bei Aufgaben mit mehreren Schritten.
+Delta MCP ist eine kostenlose App, die zwischen Ihren KI-Apps (Claude, Cursor, VS Code …) und den Tools sitzt, die sie nutzen: jeder MCP-Server, jedes Tool. Delta MCP prüft jede Aufgabe, bevor sie läuft, macht alle Änderungen oder keine, zeichnet jede Änderung auf und lässt Sie zurücknehmen, was sich zurücknehmen lässt. Technisch schreibt Ihre KI jede Aufgabe als ein Programm; Delta MCP prüft es vor dem ersten Aufruf, wendet es ganz oder gar nicht an, liest das Ergebnis zurück und spricht mit Ihren MCP-Servern so, wie sie sind, mit deutlich weniger Tokens bei Aufgaben mit mehreren Schritten.
 
 </details>
 

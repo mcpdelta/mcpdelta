@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP: verifica y deshaz los cambios de tu IA</h1>
+<h1 align="center">Deja que tu IA actúe en tus herramientas.<br>Sin cruzar los dedos.</h1>
 
-<p><strong>Delta MCP es una app gratuita entre tu IA y tus herramientas (Notion, GitHub, tus archivos…). Verifica cada tarea, hace todos los cambios o ninguno, y te deja deshacerla.</strong></p>
+<p><strong>Delta MCP es una app gratuita entre tu IA y tus herramientas: cualquier servidor MCP, todas sus herramientas. Verifica cada tarea, hace todos los cambios o ninguno, y te deja deshacerla.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Respuestas directas sobre MCP: deshacer los cambios de una IA, acceso seguro, ti
 <details>
 <summary><strong>¿Qué es Delta MCP?</strong></summary>
 
-Delta MCP es una app gratuita que se sitúa entre tus apps de IA (Claude, Cursor, VS Code…) y las herramientas que usan, como Notion, GitHub o tus archivos. Verifica cada tarea antes de ejecutarla, hace todos los cambios o ninguno, guarda un registro de cada cambio y te deja deshacer lo que se puede deshacer. Técnicamente, tu IA escribe cada tarea como un solo programa; Delta MCP lo verifica antes de la primera llamada, lo aplica todo o nada, vuelve a leer el resultado y habla con tus servidores MCP tal como son, con muchos menos tokens en las tareas de varios pasos.
+Delta MCP es una app gratuita que se sitúa entre tus apps de IA (Claude, Cursor, VS Code…) y las herramientas que usan: cualquier servidor MCP, todas sus herramientas. Verifica cada tarea antes de ejecutarla, hace todos los cambios o ninguno, guarda un registro de cada cambio y te deja deshacer lo que se puede deshacer. Técnicamente, tu IA escribe cada tarea como un solo programa; Delta MCP lo verifica antes de la primera llamada, lo aplica todo o nada, vuelve a leer el resultado y habla con tus servidores MCP tal como son, con muchos menos tokens en las tareas de varios pasos.
 
 </details>
 

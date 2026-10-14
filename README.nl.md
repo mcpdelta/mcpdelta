@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP: controleer wat je AI doet en maak het ongedaan</h1>
+<h1 align="center">Laat je AI handelen in je tools.<br>Zonder je duimen vast te houden.</h1>
 
-<p><strong>Delta MCP is een gratis app tussen je AI en je tools (Notion, GitHub, je bestanden…). Het controleert elke taak, past alles of niets toe en laat je het ongedaan maken.</strong></p>
+<p><strong>Delta MCP is een gratis app tussen je AI en je tools: elke MCP-server, elke tool. Het controleert elke taak, past alles of niets toe en laat je het ongedaan maken.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Duidelijke antwoorden over MCP: AI-wijzigingen ongedaan maken, veilige toegang, 
 <details>
 <summary><strong>Wat is Delta MCP?</strong></summary>
 
-Delta MCP is een gratis app die tussen je AI-apps (Claude, Cursor, VS Code…) en de tools zit die ze gebruiken, zoals Notion, GitHub of je bestanden. Het controleert elke taak voordat die draait, past alles of niets toe, legt elke wijziging vast en laat je ongedaan maken waar dat kan. Technisch schrijft je AI elke taak als één programma; Delta MCP controleert het vóór de eerste aanroep, past het alles of niets toe, leest het resultaat terug en praat met je MCP-servers zoals ze zijn, met veel minder tokens bij taken met meerdere stappen.
+Delta MCP is een gratis app die tussen je AI-apps (Claude, Cursor, VS Code…) en de tools zit die ze gebruiken: elke MCP-server, elke tool. Het controleert elke taak voordat die draait, past alles of niets toe, legt elke wijziging vast en laat je ongedaan maken waar dat kan. Technisch schrijft je AI elke taak als één programma; Delta MCP controleert het vóór de eerste aanroep, past het alles of niets toe, leest het resultaat terug en praat met je MCP-servers zoals ze zijn, met veel minder tokens bij taken met meerdere stappen.
 
 </details>
 

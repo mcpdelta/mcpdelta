@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP: controlla e annulla le modifiche della tua IA</h1>
+<h1 align="center">Fai agire la tua IA sui tuoi strumenti.<br>Senza incrociare le dita.</h1>
 
-<p><strong>Delta MCP è un’app gratuita tra la tua IA e i tuoi strumenti (Notion, GitHub, i tuoi file…). Controlla ogni task, applica tutte le modifiche o nessuna e ti lascia annullarle.</strong></p>
+<p><strong>Delta MCP è un’app gratuita tra la tua IA e i tuoi strumenti: qualsiasi server MCP, tutti i suoi strumenti. Controlla ogni task, applica tutte le modifiche o nessuna e ti lascia annullarle.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Risposte dirette su MCP: annullare le modifiche dell’IA, accesso sicuro, timeo
 <details>
 <summary><strong>Cos’è Delta MCP?</strong></summary>
 
-Delta MCP è un’app gratuita che sta tra le tue app di IA (Claude, Cursor, VS Code…) e gli strumenti che usano, come Notion, GitHub o i tuoi file. Controlla ogni task prima che parta, applica tutte le modifiche o nessuna, registra ogni modifica e ti lascia annullare ciò che si può annullare. Tecnicamente, la tua IA scrive ogni task come un programma; Delta MCP lo controlla prima della prima chiamata, lo applica tutto o niente, rilegge il risultato e parla con i tuoi server MCP come sono, con molti meno token nei task con più passaggi.
+Delta MCP è un’app gratuita che sta tra le tue app di IA (Claude, Cursor, VS Code…) e gli strumenti che usano: qualsiasi server MCP, tutti i suoi strumenti. Controlla ogni task prima che parta, applica tutte le modifiche o nessuna, registra ogni modifica e ti lascia annullare ciò che si può annullare. Tecnicamente, la tua IA scrive ogni task come un programma; Delta MCP lo controlla prima della prima chiamata, lo applica tutto o niente, rilegge il risultato e parla con i tuoi server MCP come sono, con molti meno token nei task con più passaggi.
 
 </details>
 

@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP：检查并撤销你的 AI 对工具做的改动</h1>
+<h1 align="center">让你的 AI 操作你的工具。<br>放心，不必提心吊胆。</h1>
 
-<p><strong>Delta MCP 是一款免费应用，位于你的 AI 和你的工具（Notion、GitHub、你的文件……）之间。它检查每个任务，要么全部生效，要么一概不动，并让你可以撤销。</strong></p>
+<p><strong>Delta MCP 是一款免费应用，位于你的 AI 和你的工具之间：任意 MCP 服务器，每一个工具。它检查每个任务，要么全部生效，要么一概不动，并让你可以撤销。</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Claude Desktop、Claude Code、Cursor、VS Code、Windsurf、Gemini CLI、Cline�
 <details>
 <summary><strong>什么是 Delta MCP？</strong></summary>
 
-Delta MCP 是一款免费应用，位于你的 AI 应用（Claude、Cursor、VS Code……）和它们使用的工具（比如 Notion、GitHub 或你的文件）之间。它在每个任务运行之前检查，要么全部生效，要么一概不动，记录每一处改动，并让你撤销能够撤销的部分。从技术上讲，你的 AI 把每个任务写成一个程序；Delta MCP 在第一次调用之前检查它，以全有或全无的方式执行，回读结果，并原样使用你的 MCP 服务器；在有多个步骤的任务上，token 消耗要少得多。
+Delta MCP 是一款免费应用，位于你的 AI 应用（Claude、Cursor、VS Code……）和它们使用的工具之间：任意 MCP 服务器，每一个工具。它在每个任务运行之前检查，要么全部生效，要么一概不动，记录每一处改动，并让你撤销能够撤销的部分。从技术上讲，你的 AI 把每个任务写成一个程序；Delta MCP 在第一次调用之前检查它，以全有或全无的方式执行，回读结果，并原样使用你的 MCP 服务器；在有多个步骤的任务上，token 消耗要少得多。
 
 </details>
 

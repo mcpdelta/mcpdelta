@@ -5,9 +5,9 @@
   <img src="assets/logo-light.svg" alt="Delta MCP" width="260">
 </picture>
 
-<h1 align="center">Delta MCP: verifique e desfaça as alterações da sua IA</h1>
+<h1 align="center">Deixe sua IA agir nas ferramentas.<br>Sem cruzar os dedos.</h1>
 
-<p><strong>O Delta MCP é um app gratuito entre sua IA e suas ferramentas (Notion, GitHub, seus arquivos…). Ele verifica cada tarefa, faz todas as alterações ou nenhuma, e você pode desfazê-la.</strong></p>
+<p><strong>O Delta MCP é um app gratuito entre sua IA e suas ferramentas: qualquer servidor MCP, todas as ferramentas dele. Ele verifica cada tarefa, faz todas as alterações ou nenhuma, e você pode desfazê-la.</strong></p>
 
 <p><a href="https://github.com/mcpdelta/mcpdelta"><img src="https://img.shields.io/github/stars/mcpdelta/mcpdelta?style=for-the-badge&logo=github&logoColor=white&color=16794F&labelColor=0E2E21" alt="GitHub stars"></a></p>
 
@@ -137,7 +137,7 @@ Respostas diretas sobre MCP: desfazer as alterações de uma IA, acesso seguro, 
 <details>
 <summary><strong>O que é o Delta MCP?</strong></summary>
 
-O Delta MCP é um app gratuito que fica entre seus apps de IA (Claude, Cursor, VS Code…) e as ferramentas que eles usam, como Notion, GitHub ou seus arquivos. Ele verifica cada tarefa antes de executá-la, faz todas as alterações ou nenhuma, guarda o registro de cada alteração e permite desfazer o que pode ser desfeito. Tecnicamente, sua IA escreve cada tarefa como um único programa; o Delta MCP o verifica antes da primeira chamada, o aplica tudo ou nada, relê o resultado e conversa com seus servidores MCP do jeito que eles são, com muito menos tokens nas tarefas de várias etapas.
+O Delta MCP é um app gratuito que fica entre seus apps de IA (Claude, Cursor, VS Code…) e as ferramentas que eles usam: qualquer servidor MCP, todas as ferramentas dele. Ele verifica cada tarefa antes de executá-la, faz todas as alterações ou nenhuma, guarda o registro de cada alteração e permite desfazer o que pode ser desfeito. Tecnicamente, sua IA escreve cada tarefa como um único programa; o Delta MCP o verifica antes da primeira chamada, o aplica tudo ou nada, relê o resultado e conversa com seus servidores MCP do jeito que eles são, com muito menos tokens nas tarefas de várias etapas.
 
 </details>
 
